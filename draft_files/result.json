@@ -1,0 +1,48 @@
+# Licitacao
+
+{
+    "took" : 7,
+    "timed_out" : false,
+    "_shards" : {
+      "total" : 1,
+      "successful" : 1,
+      "skipped" : 0,
+      "failed" : 0
+    },
+    "hits" : {
+      "total" : {
+        "value" : 2,
+        "relation" : "eq"
+      },
+      "max_score" : 0.8212126,
+      "hits" : [
+        {
+          "_index" : "querido-diario",
+          "_id" : "c3717e75594a92d9602689d2d44e913a",
+          "_score" : 0.8212126,
+          "_source" : {
+            "id" : 3,
+...
+}
+
+# Prefeitura
+"hits" : {
+      "total" : {
+        "value" : 3,
+
+        
+# Prefeitura
+        {
+          "took" : 14,
+          "timed_out" : false,
+          "_shards" : {
+            "total" : 1,
+            "successful" : 1,
+            "skipped" : 0,
+            "failed" : 0
+          },
+          "hits" : {
+            "total" : {
+              "value" : 158,
+              "relation" : "eq"
+            },
